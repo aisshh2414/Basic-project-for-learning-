@@ -56,18 +56,16 @@ This project follows a structured SQL-based data analysis pipeline:
    - Used `GROUP BY`, `ORDER BY`, `SUM()`, `COUNT()` and `CASE WHEN` for insights
 
 # 💡 What I Learned
-How to design SQL tables and import data
+How to design and structure a SQL database
 
-How to use CASE, GROUP BY, and aggregate functions
+How to import real-world data into MySQL from Excel/CSV
 
-Importance of data cleaning (e.g., converting TRUE/FALSE to 1/0)
+SQL concepts like GROUP BY, SUM(), CASE WHEN, and conditional filtering
 
-How to debug import errors like duplicate columns, data mismatches, or syntax issues
+Data cleaning and resolving schema/data mismatches
 
-Using SQL to generate insights from raw data
-         5.Case-based categorization (e.g., weight ranges)
- 
-         6.Boolean logic and data cleaning
+Debugging import errors like duplicate column names, type mismatches, and missing keys
+         
 
 
 
