@@ -55,3 +55,19 @@ This project follows a structured SQL-based data analysis pipeline:
    - Aggregated available quantity and discount insights  
    - Used `GROUP BY`, `ORDER BY`, `SUM()`, `COUNT()` and `CASE WHEN` for insights
 
+# 💡 What I Learned
+How to design SQL tables and import data
+
+How to use CASE, GROUP BY, and aggregate functions
+
+Importance of data cleaning (e.g., converting TRUE/FALSE to 1/0)
+
+How to debug import errors like duplicate columns, data mismatches, or syntax issues
+
+Using SQL to generate insights from raw data
+         5.Case-based categorization (e.g., weight ranges)
+ 
+         6.Boolean logic and data cleaning
+
+
+
